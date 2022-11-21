@@ -1,0 +1,19 @@
+dotnet ef Scaffold-DbContext "server=127.0.0.1;;uid=root;pwd=Wwefan@22;database=SuppliersFramework" Pomelo.EntityFrameworkCore.MySql -OutputDir Models -context MMABooksContext -project MMABooksEFClasses -startupproject MMABooksEFClasses -force
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Scaffold-DbContext "server=127.0.0.1;uid=root;pwd=Wwefan@22;database=MMABooks" Pomelo.EntityFrameworkCore.MySql -OutputDir KModels -context MMABooksContext -project MMABooksEFClasses -startupproject MMABooksEFClasses -force
+
+THIS WORKS!!!!!!!!!!!!!
+Scaffold-DbContext "server=127.0.0.1;uid=root;pwd=Wwefan@22;database=SuppliersFramework" Pomelo.EntityFrameworkCore.MySql -OutputDir SupplierModels -context MMABooksContext -project MMABooksEFClasses -startupproject MMABooksEFClasses -force

@@ -1,0 +1,16 @@
+D:\Bissness\School\CIS234\Project\Project234\MMABooksEFCore2022\MMABooksEFClasses\bin\Debug\net6.0\mySqlSettings.json
+D:\Bissness\School\CIS234\Project\Project234\MMABooksEFCore2022\MMABooksEFClasses\bin\Debug\net6.0\mySqlSettingsExample.json
+D:\Bissness\School\CIS234\Project\Project234\MMABooksEFCore2022\MMABooksEFClasses\bin\Debug\net6.0\SupplierEFClasses.deps.json
+D:\Bissness\School\CIS234\Project\Project234\MMABooksEFCore2022\MMABooksEFClasses\bin\Debug\net6.0\SupplierEFClasses.runtimeconfig.json
+D:\Bissness\School\CIS234\Project\Project234\MMABooksEFCore2022\MMABooksEFClasses\bin\Debug\net6.0\SupplierEFClasses.dll
+D:\Bissness\School\CIS234\Project\Project234\MMABooksEFCore2022\MMABooksEFClasses\bin\Debug\net6.0\SupplierEFClasses.pdb
+D:\Bissness\School\CIS234\Project\Project234\MMABooksEFCore2022\MMABooksEFClasses\obj\Debug\net6.0\SupplierEFClasses.csproj.AssemblyReference.cache
+D:\Bissness\School\CIS234\Project\Project234\MMABooksEFCore2022\MMABooksEFClasses\obj\Debug\net6.0\SupplierEFClasses.GeneratedMSBuildEditorConfig.editorconfig
+D:\Bissness\School\CIS234\Project\Project234\MMABooksEFCore2022\MMABooksEFClasses\obj\Debug\net6.0\SupplierEFClasses.AssemblyInfoInputs.cache
+D:\Bissness\School\CIS234\Project\Project234\MMABooksEFCore2022\MMABooksEFClasses\obj\Debug\net6.0\SupplierEFClasses.AssemblyInfo.cs
+D:\Bissness\School\CIS234\Project\Project234\MMABooksEFCore2022\MMABooksEFClasses\obj\Debug\net6.0\SupplierEFClasses.csproj.CoreCompileInputs.cache
+D:\Bissness\School\CIS234\Project\Project234\MMABooksEFCore2022\MMABooksEFClasses\obj\Debug\net6.0\SupplierEFClasses.dll
+D:\Bissness\School\CIS234\Project\Project234\MMABooksEFCore2022\MMABooksEFClasses\obj\Debug\net6.0\refint\SupplierEFClasses.dll
+D:\Bissness\School\CIS234\Project\Project234\MMABooksEFCore2022\MMABooksEFClasses\obj\Debug\net6.0\SupplierEFClasses.pdb
+D:\Bissness\School\CIS234\Project\Project234\MMABooksEFCore2022\MMABooksEFClasses\obj\Debug\net6.0\SupplierEFClasses.genruntimeconfig.cache
+D:\Bissness\School\CIS234\Project\Project234\MMABooksEFCore2022\MMABooksEFClasses\obj\Debug\net6.0\ref\SupplierEFClasses.dll
